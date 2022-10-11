@@ -1,3 +1,11 @@
+# autores:
+# Maria Eduarda Lopes Parnaíba
+# Livia Alencar de Souza
+# Matheus Alessander Cartaxo Pereira
+# Ryan Manuel de Sousa
+# Maria Eduarda Leite Trajano
+
+
 #Além dos dados dos candidatos, o software deverá permitir que os eleitores votem em um determinado candidato. Para isso, deverá ser criado um método "votar", que irá receber o número do candidato e o CPF do eleitor. 
 #O método deverá validar se o número do candidato existe e se o CPF já votou, caso não exista o número do candidato, esse voto deverá ser contabilizado como voto nulo, se o CPF já tenha votado, não contabilizar o voto e informar que ele já votou. O software deverá armazenar cada voto em uma lista de votos, onde cada voto deverá conter o dado do candidato que foi votado, o cpf do eleitor;
 from candidato import Candidato as C

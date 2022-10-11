@@ -1,3 +1,11 @@
+# autores:
+# Maria Eduarda Lopes Parnaíba
+# Livia Alencar de Souza
+# Matheus Alessander Cartaxo Pereira
+# Ryan Manuel de Sousa
+# Maria Eduarda Leite Trajano
+
+
 #1. O software deverá armazenar uma lista de candidatos, onde cada candidato possuí um nome, um partido político e um número;
 #2. Não se pode adicionar candidatos com mesmo número, pode até ter nomes iguais, mesmo partido, mas não mesmo número;
 

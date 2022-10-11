@@ -1,4 +1,13 @@
-#3- O software também deverá possuir um método que realize a contagem dos votos, ao final da votação um resumo de quantos votos cada candidato e quantos votos nulos ocorreram.
+# autores:
+# Maria Eduarda Lopes Parnaíba
+# Livia Alencar de Souza
+# Matheus Alessander Cartaxo Pereira
+# Ryan Manuel de Sousa
+# Maria Eduarda Leite Trajano
+
+
+#3- O software também deverá possuir um método que realize a contagem dos votos, ao final 
+# da votação um resumo de quantos votos cada candidato e quantos votos nulos ocorreram.
 from candidato import Candidato as C
 from voto import Voto as V
 
